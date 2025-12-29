@@ -21,4 +21,14 @@ gitlab
   <img src="https://leetcard.jacoblin.cool/fastasacheetah144?theme=nord&font=Mako"></img>
 </p>
 -->
-.
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
