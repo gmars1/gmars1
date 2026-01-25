@@ -36,7 +36,7 @@ gitlab
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&layout=compact&langs_count=15)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&layout=compact)-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&langs_count=10&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&langs_count=10&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true) <!--&hide_progress=true-->
 
 .
 
