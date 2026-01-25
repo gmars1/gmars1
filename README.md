@@ -34,7 +34,7 @@ gitlab
 ![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&layout=compact&langs_count=15)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&layout=compact&langs_count=15)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&layout=compact)-->
 
 .
