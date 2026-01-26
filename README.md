@@ -41,11 +41,11 @@ gitlab
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&langs_count=11&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&hide_progress=true&custom_title=Top+Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--<details>
+<details>
   <summary>detailed stats</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&langs_count=11&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&custom_title=Stats" alt="Detailed Languages" />
 </details>
--->
+
 
 
 
