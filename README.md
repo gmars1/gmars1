@@ -43,7 +43,7 @@ gitlab
 
 <details>
   <summary>detailed</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&langs_count=11&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&custom_title=Stats" alt="Detailed Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&langs_count=11&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&custom_title=Stats" alt="Detailed Languages" />
 </details>
 
 
