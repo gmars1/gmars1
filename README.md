@@ -46,8 +46,22 @@ gitlab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmars1&langs_count=12&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&custom_title=Stats" alt="Detailed Languages" />
 </details>-->
 
-
-
-
 .
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gmars1&label=Profile views&color=0e75b6&style=flat" alt="gmars1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmars1" alt="gmars1" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/gmars1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gmars1" height="30" width="40" /></a>
+<a href="https://leetcode.com/autoacceleration42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="autoacceleration42" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmars1&show_icons=true&locale=en&layout=compact" alt="gmars1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmars1&show_icons=true&locale=en" alt="gmars1" /></p>
+-->
+
+
 
